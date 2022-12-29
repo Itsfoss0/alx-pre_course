@@ -15,3 +15,8 @@ No notes, lets git into it :)
 
 ## Learning objectives
 By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-technique/) the following concepts
+
+* [X] What is source code management
+* [X] What is Git
+* [X] What is GitHub
+* [X] What is the difference between Git and GitHub
