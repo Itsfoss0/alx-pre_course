@@ -20,3 +20,8 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] What is Git
 * [X] What is GitHub
 * [X] What is the difference between Git and GitHub
+* [X] How to create a repository
+* [x] What is a README
+* [X] How to write good READMEs
+* [X] How to commit
+* [X] How to write helpful commit messages
