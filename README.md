@@ -31,3 +31,15 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] How to merge branches
 * [X] How to work as collaborators on a project
 * [X] Which files should and which files should not appear in your repo
+
+## More info
+### Basic usage
+By the end of this project, you should be to reproduce and understand the following commands
+```bash
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin master
+
+```
