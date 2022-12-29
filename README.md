@@ -25,3 +25,9 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] How to write good READMEs
 * [X] How to commit
 * [X] How to write helpful commit messages
+* [X] How to push code
+* [X] How to pull updates
+* [X] How to create a branch
+* [X] How to merge branches
+* [X] How to work as collaborators on a project
+* [X] Which files should and which files should not appear in your repo
