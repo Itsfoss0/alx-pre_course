@@ -12,3 +12,6 @@ No notes, lets git into it :)
 4. [Git branching](https://learngitbranching.js.org/)
 5. [Effective PR's and good git practices](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 6. [Google](https://www.google.com/search?q=git+usage)
+
+## Learning objectives
+By the end of this session, you should be able to [explain to anyone](https://fs.blog/feynman-technique/) the following concepts
